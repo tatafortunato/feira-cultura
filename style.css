@@ -41,6 +41,9 @@ body {
     width: 35%;
 }
 
+.estudante-titulo {
+    text-align: center;
+}
 
 .escola-titulo{
     padding: 24px 0;
