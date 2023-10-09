@@ -28,6 +28,10 @@ body {
     width: 25%;
 }
 
+.estudante-titulo {
+    text-align: center;
+}
+
 .escola{
     background-image: linear-gradient(#424E61,#16CFF8);
     color:white;
@@ -39,10 +43,6 @@ body {
 
 .escola-div-conteudo{
     width: 35%;
-}
-
-.estudante-titulo {
-    text-align: center;
 }
 
 .escola-titulo{
