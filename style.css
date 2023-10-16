@@ -52,6 +52,11 @@ body {
 .estudante{
     padding: 24px 0;
 }
+
+.estudante-nome{
+    display: flex;
+}
+
 .estudante-imagem{
     width: 210px;
     display: flex;
